@@ -1,0 +1,14 @@
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\bin\Debug\ProjectRandWARN.exe.config
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\bin\Debug\ProjectRandWARN.exe
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\bin\Debug\ProjectRandWARN.pdb
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.csproj.AssemblyReference.cache
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.Form1.resources
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.Properties.Resources.resources
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.csproj.GenerateResource.cache
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.csproj.CoreCompileInputs.cache
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.exe
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.pdb
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\bin\Debug\Siticone.Desktop.UI.dll
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectR.ECD4136C.Up2Date
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\bin\Debug\WinFormAnimation.dll
+C:\Pj_CB_Suslov\Visual Studio\FormaImba\ProjectRandWARN\obj\Debug\ProjectRandWARN.Form2.resources
